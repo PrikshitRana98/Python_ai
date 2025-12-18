@@ -1,0 +1,17 @@
+OOps:
+
+class and the name of the class is start with capital letter
+class Chai:
+    pass
+
+print(type(Chai)) // out put is <class 'type'>
+
+and <class 'type'> is also an object because in py every thing is an object internaly
+
+
+#namespace
+
+In Python, a namespace is a system that ensures every name (identifier) in a program is unique and can be used without conflict by mapping names to their corresponding objects
+
+
+Attribute shadowing occurs when an instance attribute in a Python object has the same name as an attribute defined in its class (or a parent class). The instance attribute "shadows" (hides) the class attribute for that particular object.
